@@ -6,5 +6,5 @@ from setuptools import setup
 setup(
     name='pre_commit_placeholder_package',
     version='0.0.0',
-    install_requires=['black==18.4a1'],
+    install_requires=['black==18.4a2'],
 )
